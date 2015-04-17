@@ -23,3 +23,5 @@ Aqui fica o texto normal e tal
 1. item 1
 1. item 1.1
 2. item 2
+
+![tabela 1](http://www.scielo.br/img/revistas/pab/v47n6/a03tab03.jpg "Titulo opcional")
