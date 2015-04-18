@@ -30,7 +30,7 @@ Aqui fica o texto normal e tal
 
 ![Foto 1](http://www.scielo.br/img/revistas/pab/v47n6/a03tab03.jpg "Foto 1")
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+First Header  | Second Header | terceiro trem
+------------- | ---------------------------- | asdasd
+Content Cell  | Content Cell asdasdasdasdasd | asdasd
+Content Cell  | Content Cell asdasdasd		 | asdasd
