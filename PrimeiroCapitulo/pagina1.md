@@ -31,6 +31,6 @@ Aqui fica o texto normal e tal
 ![Foto 1](http://www.scielo.br/img/revistas/pab/v47n6/a03tab03.jpg "Foto 1")
 
 First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
+--------- | ------------- | ---------
+Content Cell  | Content Cell | as
 Content Cell  | Content Cell
